@@ -61,7 +61,7 @@ Sigue estos pasos para clonar y ejecutar el proyecto en tu máquina local:
 
 1. **Clonar el repositorio:**
    ```bash
-   git clone https://github.com/AleC2111/Sistema-operativo-movil.git
+   git clone https://github.com/AleC2111/FlowerOS-Mobile.git
    cd Sistema-operativo-movil
    ```
 
